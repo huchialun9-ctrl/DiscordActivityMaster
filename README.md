@@ -1,4 +1,9 @@
 # Discord Activity Master (DAM)
+<p align="center">
+  <img src="banner.png" alt="Discord Activity Master Banner" width="100%">
+</p>
+
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/huchialun9-ctrl/DiscordActivityMaster?include_prereleases&color=2ea44f)](https://github.com/huchialun9-ctrl/DiscordActivityMaster/releases)
