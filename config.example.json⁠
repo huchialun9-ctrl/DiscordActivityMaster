@@ -1,0 +1,20 @@
+{
+  "system": {
+    "auto_start_with_windows": false,
+    "start_minimized_to_tray": true,
+    "auto_rotation_minutes": 60,
+    "enable_auto_rotation": false
+  },
+  "discord": {
+    "target_hours": 5000,
+    "user_token": "",
+    "client_id": ""
+  },
+  "scheduler": {
+    "enabled": false,
+    "guild_id": "",
+    "channel_id": "",
+    "command_interval_hours": 24,
+    "jitter_seconds": 300
+  }
+}
