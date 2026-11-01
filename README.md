@@ -2,9 +2,7 @@
   <img src="assets/banner.png" alt="Discord Activity Master Banner" width="100%">
 </p>
 
-
 # Discord Activity Master (DAM)
-
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/huchialun9-ctrl/DiscordActivityMaster?include_prereleases&color=2ea44f)](https://github.com/huchialun9-ctrl/DiscordActivityMaster/releases)
@@ -24,3 +22,20 @@
   - **任務與活動勳章**：監控 Discord Quests 任務狀態並發送進度信號，達成特定活動挑戰與限時徽章領取條件。
 - **指令互動排程**：定時向指定頻道發送斜線指令以領取機器人代幣或簽到，內建動態隨機延遲。
 - **程序監控與自動化**：監控 Discord 客戶端連線狀態，提供多進程並發管理、異常重試與定時輪替機制。
+
+---
+
+## 系統需求
+
+- 作業系統：Windows 10 / Windows 11
+- 執行環境：Python 3.10+
+- 常駐服務：Discord 桌面客戶端（需保持登入運行）
+
+---
+
+## 快速開始
+
+1. **複製專案庫**
+   ```bash
+   git clone [https://github.com/huchialun9-ctrl/DiscordActivityMaster.git](https://github.com/huchialun9-ctrl/DiscordActivityMaster.git)
+   cd DiscordActivityMaster
