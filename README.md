@@ -1,8 +1,13 @@
 # Discord Activity Master (DAM)
 <p align="center">
-  <img src="banner.png" alt="Discord Activity Master Banner" width="100%">
+  <img src="assets/banner.png" alt="Discord Activity Master Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/logo.png" alt="DAM Logo" width="180">
+</p>
+
+# Discord Activity Master (DAM)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
