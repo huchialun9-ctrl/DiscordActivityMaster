@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Discord Activity Master Banner" width="100%">
+</p>
+
+
 # Discord Activity Master (DAM)
 
 
